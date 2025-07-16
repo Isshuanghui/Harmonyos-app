@@ -1,0 +1,27 @@
+{
+  "src": [
+    "pages/Index",
+    "views/Welcome",
+    "views/Guide",
+    "pages/JobDetails",
+    "pages/PersonalHomePage",
+    "views/Index",
+    "views/FriendList",
+    "views/tutorNotice",
+    "views/tutoringCat",
+    "views/meeting",
+    "views/assistant",
+    "views/chat",
+    "views/InBox",
+    "pages/ActivitySignUp",
+    "pages/DormCheck",
+    "pages/AdvisiorNotice",
+    "pages/ReturnApplication",
+    "pages/InformationCollection",
+    "pages/Leave",
+    "pages/ReturnSchool",
+    "pages/DormitoryCheck",
+    "pages/SignUp",
+    "pages/ServiceDesk"
+  ]
+}
