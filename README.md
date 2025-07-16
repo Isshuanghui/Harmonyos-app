@@ -10,9 +10,13 @@ Activity Recommendations: Personalized suggestions for activity
 # 🚀 Tech Stack
 
 Development Language: ArkTS (HarmonyOS native language)
+
 IDE: DevEco Studio 5.1.1
+
 UI Framework: ArkUI Component Library
+
 State Management: HarmonyOS State Management Framework
+
 Data Storage: None
 # ⚠️ Disclaimer
 
