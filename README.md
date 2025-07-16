@@ -4,8 +4,11 @@ This project aims to replicate the core functionality of the Campus Today APP, p
 # 📱 Features
 
 Announcements: Real-time updates on campus news, event notifications, and emergency alerts
+
 Dormitory Management: Check-in records
+
 Campus Recruitment: company presentations
+
 Activity Recommendations: Personalized suggestions for activity
 # 🚀 Tech Stack
 
@@ -25,8 +28,11 @@ All rights to the original software belong to its respective authors. Please res
 # 🛠️ How to Run
 
 Install DevEco Studio development environment
+
 Import the project and configure the HarmonyOS SDK
+
 Connect an emulator or physical device
+
 Run the project via the toolbar "Run" button
 # 📄 License
 
